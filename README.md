@@ -1,3 +1,4 @@
+## 🔎 Looking for Work
 ## About Me:
 My experience in industry has shown me the that there is a lot of work to do. It has kindled a love for using **mathematical foundations and programming language research to arrive at elegant and powerful solutions**.
    
